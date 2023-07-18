@@ -1,5 +1,5 @@
 <?php
-
+ 
 /**
  * Hide shipping rates when free shipping is available.
  * Updated to support WooCommerce 2.6 Shipping Zones.
